@@ -28,7 +28,7 @@ const Yhteensa = (props) => {
 
 const App = () => {
     const kurssi = {
-      nimi: 'Half Stack -sovelluskehitys',
+      nimi: 'Half Stack -Sovelluskehitys',
       osat: [
         {
           nimi: 'Reactin perusteet',
